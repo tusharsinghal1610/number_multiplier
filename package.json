@@ -1,0 +1,25 @@
+{
+  "name": "number_multiplier",
+  "version": "1.0.0",
+  "description": "gives ten times of a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharsinghal1610/number_multiplier.git"
+  },
+  "keywords": [
+    "multiplier"
+  ],
+  "author": "Tushar singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharsinghal1610/number_multiplier/issues"
+  },
+  "homepage": "https://github.com/tusharsinghal1610/number_multiplier#readme",
+  "dependencies": {
+    "string_lengthfinder": "^1.0.0"
+  }
+}
